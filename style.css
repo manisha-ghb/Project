@@ -94,6 +94,9 @@ ul li:hover ul.dropdown-home , ul li:hover ul.dropdown-pages , ul li:hover ul.dr
     font-size: 2.2rem;
     display: none;
 }
+#icon{
+    color: gray;
+}
 .dropdown-icon{
     margin-top: 10px;
     background-color: white;
